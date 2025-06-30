@@ -39,8 +39,8 @@ I'm on a journey to enhance my skills in **programming**, **version control**, a
 - Tech YouTuber videos are my go-to resource for learning
 
 ## 📫 Contact
-- 📧 Email: [srishamanjunathan@gmail.com](mailto:srishamanjunathan@gmail.com)  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐱 GitHub: [https://github.com/srisha2007](https://github.com/srisha2007)
+- 📧 Email: [srishamanjunathan@gmail.com] 
+- 🔗 LinkedIn: https://www.linkedin.com/in/srisha-manjunathan-b672b032a   
+- 🐱 GitHub: [https://github.com/srisha2007]
 
 ---
